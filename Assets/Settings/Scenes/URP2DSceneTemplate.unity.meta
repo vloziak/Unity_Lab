@@ -5,3 +5,10 @@ DefaultImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325743
+  packageName: Paddle Ball | ScriptableObject Sample Project
+  packageVersion: 1.2
+  assetPath: Assets/Settings/Scenes/URP2DSceneTemplate.unity
+  uploadId: 988214
